@@ -9,24 +9,24 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("25737108"))
+API_HASH = getenv("26ae58cd9e8d64ca8ab3eb601521d8e7")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("7332248265:AAH7bgk6OnBDght5IdlX-NY4heDuKuDPlzw")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Demonxcoder")
+OWNER_USERNAME = getenv("OWNER_USERNAME","lll_STRANGER_XD_lll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Melodymusics_bot")
+BOT_USERNAME = getenv("Blazzeixc_music_bot" , "")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝄟✮⃝⏤͟͟͞͞ 𝐌єℓσԃу ✘ 𝐌υѕιƈ 💗")
+BOT_NAME = getenv("BOT_NAME" , "ᯓ𓆰𝅃꯭ẞ𝚕ᴀᴢᴢ𝚎¡𝚡¢˶‌‌֟፝◡‌⃝❄️")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "assistant_musica")
+ASSUSERNAME = getenv("ASSUSERNAME" , "ASSISTANT_STUBIXC")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("mongodb+srv://Stranger:SHUBHI09cluster0.l7dpk.mongodb.net/", )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -35,19 +35,19 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002150125584))
+LOGGER_ID = int(getenv("LOGGER_ID", --1002261129371))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7093899037))
+OWNER_ID = int(getenv("OWNER_ID", 7487932886))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
+HEROKU_APP_NAME = getenv("Blazzeixc-music")
 # ----------------------------------------------------------------
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+HEROKU_API_KEY = getenv("HRKU-de6bfb6c-4e83-4725-9b95-6d512b992c70")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MoviesWDs_bot")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Mrshubh_1227")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Blazzeixc_music_bot_support")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/STUBIXC_SUPPORT")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", BQAf70YARrXuRcTZlaIZVeCXVCLmTehMu65yOlA8UHX_Cv0hRvaCsuLAlUKbVbuPTnRbugeynPFYVA35QsXaunUlNJreATN_QeOWpPxelBVdEjk_8_MoSfnpTchsQGHpkoIQJ7t987TaG-wr9XeLQmi-fkwyE19JyZZzC1LAJb1K7a9IQW0mb3k0GoMirQTRmqnlgfwsIMqwMGPu_4EGDOqr9OA9GnYzNF-mt_oXdlnZ9Bq-yjCz3WCDlgUqbqPkyzhW4O099ieROAbxaY1N5j6lFFm1OadAhzQjEBAeKrPBROxoKcBEm-5aCCGCRhJGX3S74uDqJEUJrvsGOeJzOHGycVH8lwAAAAG5N7aaAA)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -141,10 +141,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
+    "START_IMG_URL", "https://graph.org/file/3a7cfd4a9c1a4057b6b3f-ac202695ff470b58ee.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/7bb907999ea7156227283.jpg"
+    "PING_IMG_URL", "https://graph.org/file/3a7cfd4a9c1a4057b6b3f-ac202695ff470b58ee.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
